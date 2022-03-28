@@ -18,9 +18,5 @@ def maximumPoints(k, costs):
         
     return n
 
-def maximumPoints(k, costs):
-    # Write your code here
-    if costs == [] or k == 0:
-        return 0
 
     
