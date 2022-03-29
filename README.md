@@ -2,7 +2,7 @@
 Proceso de selección y buenas vibras
 
 
-<h1>¡Hola a todos!</h1> 
+<h1>¡Hola a todos! 👋</h1> 
 Mi intención es darle a todo el que le interese, un acercamiento de cómo fue mi experiencia en el proceso de selección de la Academia Santec (Backend) de Santander Tecnología.
 Desde el año pasado (2021) me dediqué intensivamente en la búsqueda de mi primer trabajo IT, si bien ya había estado en otros procesos no pasaba de recursos humanos o algún examen técnico, aunque había inseguridades que superar cada una fue un proceso muy necesario para reforzar mis habilidades blandas, que a diferencia de mi conocimiento técnico era lo que más me costaba.
 Con cada “no fuiste selecciona” o “decidimos avanzar con otros candidatos” fui descubriendo mis puntos fuertes y débiles. Los primeros eran mi amor por las matemáticas, el pensamiento lógico, mi buena base en lógica en programación por la facultad, la cual me ayudo muchísimo a pasar el challenge y a resolver el primer ejercicio (el más difícil).
