@@ -14,11 +14,11 @@ Quiero aclarar que todos los consejos/sugerencias que expondré en las siguiente
 Desde fines de febrero hasta la fecha (22/03/22) que fue todo lo que duro el proceso, pase por muchos estados emocionales pero primordialmente y en todo momento sentí un acompañamiento cálido por parte de la gente de Academia Santec. Se me informo después de cada entrevista en un tiempo razonable (entre 2-4 días), en este punto es importante no desesperar y no mandar mails preguntando por una respuesta, sólo por que te agarro ansiedad.
 En mi caso al ver que seguía pasando las instancias del proceso, deje de postularme a otros y enfocar toda mi energía en ésta. 
 
-<h3>1.- Postulación</h3>
+<h3>1.- Postulación ⏲️</h3>
 El primer paso fue la inscripción del cuál posteriormente te llega un mail con dos enlaces, uno a             
 un pdf donde se resume el paso a paso del proceso y explicación detallada, y el segundo al acceso al challenge, en un día y horario específico.
 
-<h3>2.- Desafío Técnico</h3><br>
+<h3>2.- Desafío Técnico</h3>
 El challenge se hizo por HackerRank donde se tuvo que resolver dos ejercicios con duración de 8 horas a partir de su ingreso al link el mismo día.
 El primero a la mayoría nos resulto mucho más difícil que el segundo, adjunto la resolución en Python en el repositorio (fue mi primer lenguaje de programación, el cuál aprendí en la facultad y es uno de mis favoritos).
 Para el primer ejercicio, considero que me ayudo bastante el hecho de tener una buena base en matemáticas y a la resolución de problemas. El hecho de haber resuelto tantos ejercicios matemáticos te da una habilidad dónde podes identificar con más facilidad los datos que te dan y qué es lo que te piden, para posteriormente saber que hacer con ellos.
