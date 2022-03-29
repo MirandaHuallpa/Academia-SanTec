@@ -14,7 +14,7 @@ Quiero aclarar que todos los consejos/sugerencias que expondré en las siguiente
 Desde fines de febrero hasta la fecha (22/03/22) que fue todo lo que duro el proceso, pase por muchos estados emocionales pero primordialmente y en todo momento sentí un acompañamiento cálido por parte de la gente de Academia Santec. Se me informo después de cada entrevista en un tiempo razonable (entre 2-4 días), en este punto es importante no desesperar y no mandar mails preguntando por una respuesta, sólo por que te agarro ansiedad.
 En mi caso al ver que seguía pasando las instancias del proceso, deje de postularme a otros y enfocar toda mi energía en ésta. 
 
-<h3>1.- Postulación</h3><br>
+<h3>1.- Postulación</h3>
 El primer paso fue la inscripción del cuál posteriormente te llega un mail con dos enlaces, uno a             
 un pdf donde se resume el paso a paso del proceso y explicación detallada, y el segundo al acceso al challenge, en un día y horario específico.
 
