@@ -27,19 +27,19 @@ Lo que hice fue pasar a papel todo lo que iba entendiendo del enunciado y repasa
 
 Después de haber entendido por completo el enunciado, también me di cuenta que había un error de tipeo, lo cuál consideré muy importante recordar y exponer en la entrevista técnica, ésto que sí se hizo a propósito o no, es completamente válido. Por qué si bien busca confundirte, si éstas seguro de lo que haces no debe ser motivo de distracción, ahí es donde demostrás tu seguridad y seguís. También porque tu prioridad de ser pasar los tests, y si pasa los test a pesar de que el enunciado diga otra cosa, está bien. Vale aclarar que era un error de un sólo ejemplo de dónde tenías más ejemplos disponibles y que eran correctos.
 
-<h3>3.- Entrevista con Recursos Humanos 🧖</h3><br>
+<h2>3.- Entrevista con Recursos Humanos 🧖</h2><br>
 Cada entrevista por meet que tuve en este proceso fue por demás de las mejores, la calidez humana traspaso la pantalla y si bien en un principio me sentí nerviosa, todo se fue de a poco en el transcurso de escuchar y hablar. Me fui desenvolviendo naturalmente y creo haber tenido un crecimiento exponencial en aspectos como: saber comunicarme y la empatía emocional.
 Tuve que trabajar mucho en mis habilidades blandas, por lo que las inseguridades pasaron por mi mente antes, durante y después de la entrevista, pero créeme que si te enfocaste en trabajar tanto en tus conocimientos técnicos como tus habilidades, en aspectos básicos como practicar un speech, modular bien, tomarte tu tiempo en contestar, responder con honestidad y transmitir el entusiasmo que sentís de haber llegado hasta allí, es suficiente y estás haciendo todo bien.
 Enfocarte en el simple hecho de que llegaste hasta allí por tu propio esfuerzo y que no te están haciendo un favor al entrevistarte.
 
 Una pequeña sugerencia que me sirvió mucho, cuando te hacen una pregunta, contestala, pero también aprovecha ese espacio para hablar de tus puntos fuertes, que creas pueda sumar a la empresa, dará una impresión de seguridad, llevando un poco el control de la entrevista. Por supuesto, averigua antes sobre la empresa y sus valores. Y sonreí, mostrá tu buena cara a la vida.
 
-<h3>4.- Entrevista Técnica</h3><br>
+<h2>4.- Entrevista Técnica 🧑‍💻</h2>
 Días previos me preparé repasando los ejercicios del challenge, traté de rehacerlo para mejorarlo, y más importante encontrar la mejor manera de explicarlo para darme a entender bien y más importante aún defender mi resolución en el caso de que se me haga saber que existen mejores maneras de resolverlo. A su vez, en el caso de que exista una resolución más optima, aprender de él.
 Te harán unas pequeñas preguntas formales como: ¿cómo te sentiste haciendo el challenge?, ¿quién te representa o admirás en el ámbito de la tecnología?, etc. 
 Acá como mencioné antes, es vital que expongas los errores de tipeo que encontraste.
 
-<h3>5.- Entrevista con Líder de proyectos.</h3><br>
+<h2>5.- Entrevista con Líder de proyectos. 👔</h2>
 Es la más importante y desafiante de todas. Pensar sobre que preguntar sabiendo poco del trabajo en equipo en una empresa, puede generar muchas inseguridades sobre, ¿será muy tonta la pregunta? ¿debería buscar en internet y hacer las mismas preguntas que me aconsejan decir?.
 Aunque admito que sí busque por internet, eso me ayudo a darme un pantallazo y me sirvió de guía, pero nada te prepara para las preguntas sorpresa.
 Tenés que saber, que un proceso de selección no sólo se está evaluando al candidato, también el candidato está evaluando a la empresa. Si acompaña a los objetivos académicos que tengas, si la calidad humana de las personas que lo conforman son las que querés en tu vida (ésto se verá reflejado en el tipo de preguntas que te hagan), una vez que tengas esto en claro, emanarás seguridad y todas las dudas que tengas que preguntar serán completamente válidas, en mi caso, todas las inquietudes que tuve y me parecían bobas, decidí finalmente hacerlas.
