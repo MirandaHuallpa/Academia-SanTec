@@ -18,7 +18,7 @@ En mi caso al ver que seguía pasando las instancias del proceso, deje de postul
 El primer paso fue la inscripción del cuál posteriormente te llega un mail con dos enlaces, uno a             
 un pdf donde se resume el paso a paso del proceso y explicación detallada, y el segundo al acceso al challenge, en un día y horario específico.
 
-<h3>2.- Desafío Técnico</h3>
+<h3>2.- Desafío Técnico</h3><h2>💻</h2>
 El challenge se hizo por HackerRank donde se tuvo que resolver dos ejercicios con duración de 8 horas a partir de su ingreso al link el mismo día.
 El primero a la mayoría nos resulto mucho más difícil que el segundo, adjunto la resolución en Python en el repositorio (fue mi primer lenguaje de programación, el cuál aprendí en la facultad y es uno de mis favoritos).
 Para el primer ejercicio, considero que me ayudo bastante el hecho de tener una buena base en matemáticas y a la resolución de problemas. El hecho de haber resuelto tantos ejercicios matemáticos te da una habilidad dónde podes identificar con más facilidad los datos que te dan y qué es lo que te piden, para posteriormente saber que hacer con ellos.
