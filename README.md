@@ -37,7 +37,7 @@ Una pequeña sugerencia que me sirvió mucho, cuando te hacen una pregunta, cont
 <h2>4.- Entrevista Técnica 🧑‍💻</h2>
 Días previos me preparé repasando los ejercicios del challenge, traté de rehacerlo para mejorarlo, y más importante encontrar la mejor manera de explicarlo para darme a entender bien y más importante aún defender mi resolución en el caso de que se me haga saber que existen mejores maneras de resolverlo. A su vez, en el caso de que exista una resolución más optima, aprender de él.
 Te harán unas pequeñas preguntas formales como: ¿cómo te sentiste haciendo el challenge?, ¿quién te representa o admirás en el ámbito de la tecnología?, etc. 
-Acá como mencioné antes, es vital que expongas los errores de tipeo que encontraste.
+Acá como mencioné antes, es vital que expongas los errores de tipeo que encontraste y documetes lo que hacen las funciones que creaste.
 
 <h2>5.- Entrevista con Líder de proyectos. 👔</h2>
 Es la más importante y desafiante de todas. Pensar sobre que preguntar sabiendo poco del trabajo en equipo en una empresa, puede generar muchas inseguridades sobre, ¿será muy tonta la pregunta? ¿debería buscar en internet y hacer las mismas preguntas que me aconsejan decir?.
