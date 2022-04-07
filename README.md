@@ -9,7 +9,7 @@ Con cada “no fuiste selecciona” o “decidimos avanzar con otros candidatos�
 Con esto no quiero desanimar y que piensen que si no tienen estas cualidades no pasarán entrevistas, porque las habilidades blandas son más importante que las técnicas, pero si quiero animarlos a que le den más importancia, ya que les servirá para todo.
 Les prometo que no soy una genio de las matemáticas, es algo que me intereso desde el secundario y que fui alimentando y formado desde entonces.
 
-Quiero aclarar que todos los consejos/sugerencias que expondré en las siguientes líneas son basados en mi criterio y personalidad, todos somos diferentes así que mis consejos/sugerencia podrían servirte como no, y por supuesto podés no estar de acuerdo.
+Quiero aclarar que todos los consejos/sugerencias que expondré en las siguientes líneas son basados en mi criterio y personalidad, todos somos diferentes así que podrían servirte como no, y por supuesto podés no estar de acuerdo.
 
 Desde fines de febrero hasta la fecha (22/03/22) que fue todo lo que duro el proceso, pase por muchos estados emocionales pero primordialmente y en todo momento sentí un acompañamiento cálido por parte de la gente de Academia Santec. Se me informo después de cada entrevista en un tiempo razonable (entre 2-4 días), en este punto es importante no desesperar y no mandar mails preguntando por una respuesta, sólo por que te agarro ansiedad.
 En mi caso al ver que seguía pasando las instancias del proceso, deje de postularme a otros y enfocar toda mi energía en ésta. 
