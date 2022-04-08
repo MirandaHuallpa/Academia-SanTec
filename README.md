@@ -46,3 +46,6 @@ Tenés que saber, que un proceso de selección no sólo se está evaluando al ca
 
 La entrevista comenzará con una introducción de lo que el líder de proyectos está haciendo en la empresa, dato no menor: trabaja en más de 6 proyectos con 15 miembros en cada equipo. ¡Es admirable!, y a partir de ese dato, me fueron surgiendo dudas espóntaneas que pregunté después. Como qué metodología de trabajo usan, existe el feedback constante, hay flexibilidad para cambios de proyectos, qué habilidades blandas debería tener un líder de proyectos.
 De acá pueden surgir muchas preguntas y respuestas espontáneas, sólo enfócate en las respuestas y tomate tu tiempo para contestar.
+
+<h3>EJERCICIO 1</h3>
+<img src="screenshots/screen1.png" width=190px>
