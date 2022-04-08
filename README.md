@@ -48,4 +48,9 @@ La entrevista comenzará con una introducción de lo que el líder de proyectos 
 De acá pueden surgir muchas preguntas y respuestas espontáneas, sólo enfócate en las respuestas y tomate tu tiempo para contestar.
 
 <h3>EJERCICIO 1</h3>
-<img src="screenshots/screen1.png" width=190px>
+<img src="imagen-ej1.jpeg" width=190px>
+<img src="imagen-ej1-1.jpeg" width=190px>
+
+<h3>EJERCICIO 2</h3>
+<img src="imagen-ej2.jpeg" width=190px>
+<img src="imagen-ej2-2.jpeg" width=190px>
